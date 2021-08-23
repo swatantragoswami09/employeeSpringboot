@@ -1,43 +1,5 @@
 
-//Write a Java program that will calculate the percentage of calories that comes from 
-//fat for a food item. It is recommended that no more than 30 percent of a person's 
-//daily calories come from fat.  Each gram of fat is 9 calories. Given the grams of fat and 
-//the number of calories in a food item calculate the percentage of calories that comes from 
-//fat for a food item.
-
-//Input
-//1. Item name   
-//2. Item quantity per gram 
-//3.Calories
-//Input should be accepted with following command line options:
-//-name 	<first item name>
-//-grams of fat <first item quantity>
-//-calories < first item  calories>
-
-//Program design:
-//   INPUT : 
-// 1. Prompt user to enter name of a food
-//    "Enter the name of a food item: "
-// 2. Input food name
-// 3. Prompt user to enter the grams of fat in the food
-//    (for the food he/she entered in previous input)
-//    "Enter the grams of fat: "
-// 4. Input grams of fat
-// 5. Prompt user to enter the number of calories in the food
-//    "Enter the number of calories: "
-// 6. Input the number of calories
-
-//OUTPUT :
-//1. Print the food item and the percentage of calories that come from fat
-//    (fatCalPercent)
-// 2. Print one of the two following messages depending on the percentage
-// of calories from fat (value of fatCalPercent).
-//"This item is Heart Heathy!"
-// "This item is NOT Heart Heathy!“
-//
-//Make use of java's object-oriented capabilities for implementing this business logic
-//Exception handling is expected in the program
-//Jdk8 should be used for development
+//Solution of Assignment-1
 
 import java.util.Scanner;
 

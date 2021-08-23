@@ -72,8 +72,5 @@ public class FatGramCal {
 		
 	}
 
-	private static char[] type(String food) {
-		// TODO Auto-generated method stub
-		return null;
-	}
+	
 }

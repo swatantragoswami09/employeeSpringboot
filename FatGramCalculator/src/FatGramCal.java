@@ -35,12 +35,6 @@ public class FatGramCal {
 		         System.exit(0);
 		      }
 			
-			
-			
-			
-			
-			
-			
 		System.out.println("Enter the number of calories: ");
 		fgc.totalNumberOfCalories = sc.nextDouble();
 

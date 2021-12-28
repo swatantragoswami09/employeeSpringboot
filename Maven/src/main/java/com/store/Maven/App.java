@@ -45,7 +45,7 @@ public class App
 	      }
 		tshirt.setgender(gender);
 		
-		System.out.print("Enter Size (M,L,S):");
+		System.out.print("Enter Size (M,L,S or XL):");
 		String size= sc.nextLine().toLowerCase();
 		boolean boolSize= validtaeString(size);
 		if(!boolSize) {

@@ -20,7 +20,7 @@ import java.util.Map.Entry;
 
 public class TShirtController {
 	
-	//Creating treeview object
+	//Creating tshirtview object
 	TShirtView tshirtview=new TShirtView();
 	
 	// sort by rating

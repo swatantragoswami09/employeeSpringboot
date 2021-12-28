@@ -48,6 +48,8 @@ public class TShirtView {
 
 				if(col && size && gen) {
 					result.add(v.get(i));
+				}else {
+					System.out.println("not present that you enter");
 				}
 			 }
 		}
